@@ -1,78 +1,64 @@
-# <p align="center">🕵️‍♂️ BINARY-WORLD: SECURE DOSSIER 📡</p>
-
+<h1 align="center">Hi 👋, I'm Parth Patil</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=PARTH%20PATIL&fontSize=80&fontColor=00FF41&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Security+Engineer;AI+Governance+Researcher;HealthTech+Innovator;Advanced+Systems+Operator" alt="Typing Bio" />
 </p>
 
-<br />
-
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ OPERATIVE STATUS: ACTIVE</h3>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=false&vCenter=true&width=500&lines=AI+Governance+Researcher;Cybersecurity+Innovator;ShadowGuard+Architect;Advanced+Systems+Operator" />
-      <br /><br />
-      I am a technical specialist focused on <b>Artificial Intelligence Governance</b> and <b>Data Leakage Prevention</b>. I engineer systems that secure LLM interactions and protect enterprise infrastructure from unverified AI usage.
-    </td>
-    <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Binary-World01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧊 3D ISOMETRIC COMMAND CENTER
 <p align="center">
-  <img src="https://github.com/Binary-World01/Binary-World01/raw/main/github-metrics.svg" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Binary-World01&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" />
 </p>
 
 ---
 
-### 🛠️ TACTICAL ARSENAL: THE BENTO GRID
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,py,nodejs,express,mongodb,postgres,c,cpp,docker,linux,git,github,vscode&theme=dark&perline=8" />
-</p>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <b>🛡️ GOVERNANCE</b><br />
-      DLP / PII / LLM-SEC
-    </td>
-    <td width="33%" align="center">
-      <b>⚛️ FRONTEND</b><br />
-      VUE / TS / VITE
-    </td>
-    <td width="33%" align="center">
-      <b>⚙️ SYSTEMS</b><br />
-      PYTHON / C / DOCKER
-    </td>
-  </tr>
-</table>
+### 🕵️‍♂️ About Me
+I am a **Full-Stack Software Engineer** and **AI Governance Researcher** focused on the intersection of **Artificial Intelligence** and **System Security**. I design and deploy adaptive defense layers that govern LLM interactions and protect enterprise infrastructure from data leakage.
 
 ---
 
-### 🛰️ KEY MISSIONS: [SHADOWGUARD](https://github.com/Binary-World01/ShadowGuard)
+### 🛠️ Technical Arsenal
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-World01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" width="60%" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,vue,nodejs,vite,tailwind,docker,linux&theme=dark" />
 </p>
 
 ---
 
-### 📡 ESTABLISH UPLINK
+### 📂 Featured Repositories
+
+| Project | Description | Stars |
+| :--- | :--- | :--- |
+| **[ShadowGuard](https://github.com/Binary-World01/ShadowGuard)** | Modern AI Governance & DLP Platform | <img src="https://img.shields.io/github/stars/Binary-World01/ShadowGuard?style=flat-square&label=%E2%AD%90" /> |
+| **[Neuro-Vitals](https://github.com/Binary-World01/Neuro-Vitals)** | Predictive Healthcare Intelligence | <img src="https://img.shields.io/github/stars/Binary-World01/Neuro-Vitals?style=flat-square&label=%E2%AD%90" /> |
+| **[svar.ai](https://github.com/Binary-World01/svar.ai)** | AI-Powered Music Composition | <img src="https://img.shields.io/github/stars/Binary-World01/svar.ai?style=flat-square&label=%E2%AD%90" /> |
+| **[Talentsphere](https://github.com/Binary-World01/Talentsphere)** | Enterprise Recruitment Portal | <img src="https://img.shields.io/github/stars/Binary-World01/Talentsphere?style=flat-square&label=%E2%AD%90" /> |
+
+---
+
+### 📊 Account Analytics
+
 <p align="center">
-<a href="mailto:PATILPARTH.BUSINESS@GMAIL.COM"><img src="https://img.shields.io/badge/COMMUNICATION-00FF41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Binary-World01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-World01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Logic+is+the+shield;+Innovation+is+the+sword.&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.herokuapp.com/graph?username=Binary-World01&theme=github-compact&area=true&hide_border=true&bg_color=0D1117&color=00FF41" width="100%" />
 </p>
 
 ---
 
+### 📫 Connect with Me
 <p align="center">
-  <sub>SESSION AUTHORIZED: 2026-03-25 | BINARY-WORLD OPERATIVE</sub>
+<a href="mailto:PATILPARTH.BUSINESS@GMAIL.COM">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/Binary-World01">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Binary-World01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Parth Patil | Designed for Security & Innovation</sub>
 </p>
