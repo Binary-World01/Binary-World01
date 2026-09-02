@@ -2,7 +2,7 @@
 
 ```bash
 root@binary-world:~$ whoami
-> Parth Patil
+> Vaishnavi Patil
 
 root@binary-world:~$ cat identity.txt
 > Focus: Low-Latency Infrastructure & Quantitative Engineering
